@@ -2,12 +2,12 @@
 자바언어를 활용하여 슈팅게임을 만들었습니다. 프로젝트의 기간은 약 2주의 시간이 걸렸습니다.
 
 
-##사용 언어
+## 사용 언어
 <p align="left">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=Java&logoColor=white" alt="Java"/>
 </p>
 
-##게임 설명
+## 게임 설명
 - space를 이용해서 Player는 enemy를 공격해서 score를 많이 올리는 게임입니다.
 - 키보드의 w,a,s,d를 이용해서 플레이어의 기체가 이동을 합니다.
 - 적이 플레이어를 지나 화면에 나가게 되면 스코어는 -1000이 되고 -5000이 될 경우 게임은 종료됩니다.
@@ -21,41 +21,42 @@
 ```bash
 git clone https://github.com/younguk072023/Java.git
 
+git clone https://github.com/younguk072023/Java.git
+
 ## 실행 이미지 
 **게임 시작 전 메인화면**
-![image](https://github.com/user-attachments/assets/6b77049e-dc93-4499-b74b-361377c0e851)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/main_screen.png)
 
 **게임 방법 및 설명**
-![image](https://github.com/user-attachments/assets/d6cc4734-2be7-4ebf-be79-bcfa320763cd)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_instructions.png)
 
 **게임 진행 화면**
-![image](https://github.com/user-attachments/assets/5280d574-f1b7-454a-a12f-c3c9099bb0df)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_play.png)
 
 **게임 재 시작 화면**
-![image](https://github.com/user-attachments/assets/1d208a73-404d-498c-8fe4-1ef7166edb25)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_restart.png)
 
 ## Code 설명
 **Game class**
-![image](https://github.com/user-attachments/assets/7f66eb41-c2ef-4a04-900c-9c285ce8d333)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_class.png)
 
 **게임을 시작하는 화면**
-![image](https://github.com/user-attachments/assets/140841b7-75b7-4f1a-b193-070ca2033910)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_start_screen.png)
 
 **게임 설명 화면 전환 후 게임화면 전환**
-![image](https://github.com/user-attachments/assets/44f1ad61-3aec-4034-bdd0-58390a9e12da)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_transition.png)
 
 player의 공격 과정 구현
-![image](https://github.com/user-attachments/assets/87bae0c6-6448-4234-b612-7521d44a1665)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/player_attack_process.png)
 
 player의 공격 구현
-![image](https://github.com/user-attachments/assets/1657c6a0-8e10-42be-bab1-80905c3e2717)
-
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/player_attack.png)
 
 enemy class 구현
-![image](https://github.com/user-attachments/assets/cfeb84ea-5eeb-48bc-b012-ccd5baeb1669)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/enemy_class.png)
 
 적의 무작위 랜덤위치 생성
-![image](https://github.com/user-attachments/assets/6fff602a-e860-4314-93c3-4e4fa3aab0f2)
+![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/enemy_random_position.png)
 
 
 
