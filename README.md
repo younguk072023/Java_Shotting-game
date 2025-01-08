@@ -1,5 +1,5 @@
 # Shooting Game Project
-자바언어를 활용하여 슈팅게임을 적용하였습니다. 
+자바언어를 활용하여 슈팅게임을 만들었습니다. 프로젝트의 기간은 약 2주의 시간이 걸렸습니다.
 
 
 ##사용 언어
@@ -21,6 +21,7 @@
 ```bash
 git clone https://github.com/younguk072023/Java.git
 
+## 실행 이미지 
 **게임 시작 전 메인화면**
 ![image](https://github.com/user-attachments/assets/6b77049e-dc93-4499-b74b-361377c0e851)
 
@@ -36,9 +37,25 @@ git clone https://github.com/younguk072023/Java.git
 ## Code 설명
 **Game class**
 ![image](https://github.com/user-attachments/assets/7f66eb41-c2ef-4a04-900c-9c285ce8d333)
+
 **게임을 시작하는 화면**
 ![image](https://github.com/user-attachments/assets/140841b7-75b7-4f1a-b193-070ca2033910)
+
 **게임 설명 화면 전환 후 게임화면 전환**
+![image](https://github.com/user-attachments/assets/44f1ad61-3aec-4034-bdd0-58390a9e12da)
+
+player의 공격 과정 구현
+![image](https://github.com/user-attachments/assets/87bae0c6-6448-4234-b612-7521d44a1665)
+
+player의 공격 구현
+![image](https://github.com/user-attachments/assets/1657c6a0-8e10-42be-bab1-80905c3e2717)
+
+
+enemy class 구현
+![image](https://github.com/user-attachments/assets/cfeb84ea-5eeb-48bc-b012-ccd5baeb1669)
+
+적의 무작위 랜덤위치 생성
+![image](https://github.com/user-attachments/assets/6fff602a-e860-4314-93c3-4e4fa3aab0f2)
 
 
 
