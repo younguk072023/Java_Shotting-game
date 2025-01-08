@@ -17,11 +17,6 @@
 - score가 10000이상이 넘어 갈 경우 enemy의 출현 속도가 빨라집니다. 
 
 
-## 실행 방법
-```bash
-git clone https://github.com/younguk072023/Java.git
-
-git clone https://github.com/younguk072023/Java.git
 
 ## 실행 이미지 
 **게임 시작 전 메인화면**
@@ -46,17 +41,10 @@ git clone https://github.com/younguk072023/Java.git
 **게임 설명 화면 전환 후 게임화면 전환**
 ![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_transition.png)
 
-player의 공격 과정 구현
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/player_attack_process.png)
 
-player의 공격 구현
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/player_attack.png)
-
-enemy class 구현
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/enemy_class.png)
-
-적의 무작위 랜덤위치 생성
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/enemy_random_position.png)
+## 실행 방법
+```bash
+git clone https://github.com/younguk072023/Java.git
 
 
 
