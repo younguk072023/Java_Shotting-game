@@ -20,10 +20,11 @@
 
 ## 실행 이미지 
 **게임 시작 전 메인화면**
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/main_screen.png)
+
 
 **게임 방법 및 설명**
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_instructions.png)
+![image](https:![시작화면](https://github.com/user-attachments/assets/a6b165fc-8901-4c2e-af65-24bfe4bda071)
+//raw.githubusercontent.com/younguk072023/Java/main/assets/game_instructions.png)
 
 **게임 진행 화면**
 ![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_play.png)
