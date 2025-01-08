@@ -31,16 +31,6 @@
 **게임 재 시작 화면**
 ![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_restart.png)
 
-## Code 설명
-**Game class**
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_class.png)
-
-**게임을 시작하는 화면**
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_start_screen.png)
-
-**게임 설명 화면 전환 후 게임화면 전환**
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_transition.png)
-
 
 ## 실행 방법
 ```bash
