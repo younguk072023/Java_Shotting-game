@@ -7,6 +7,10 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=Java&logoColor=white" alt="Java"/>
 </p>
 
+## 개발 환경
+![Eclipse Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eclipse-Luna-Logo.svg/512px-Eclipse-Luna-Logo.svg.png)
+
+
 ## 게임 설명
 - space를 이용해서 Player는 enemy를 공격해서 score를 많이 올리는 게임입니다.
 - 키보드의 w,a,s,d를 이용해서 플레이어의 기체가 이동을 합니다.
