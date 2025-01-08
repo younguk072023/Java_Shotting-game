@@ -11,6 +11,6 @@ https://github.com/younguk072023/Java_Shotting-game/blob/main/README.md
 - ESC : 게임 종료
 
 
-## 설치 방법
+## 실행 방법
 ```bash
 git clone https://github.com/younguk072023/Java.git
