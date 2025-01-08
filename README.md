@@ -21,16 +21,19 @@
 ## 실행 이미지 
 **게임 시작 전 메인화면**
 
+![시작화면](https://github.com/user-attachments/assets/89162978-463b-46f7-ba89-b40f4a1c4579)
 
 **게임 방법 및 설명**
-![image](https:![시작화면](https://github.com/user-attachments/assets/a6b165fc-8901-4c2e-af65-24bfe4bda071)
-//raw.githubusercontent.com/younguk072023/Java/main/assets/game_instructions.png)
+![게임방법](https://github.com/user-attachments/assets/c98ac041-2ec1-4783-b29a-b58d927c9e1b)
+
 
 **게임 진행 화면**
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_play.png)
+![실행화면](https://github.com/user-attachments/assets/946eb97b-f94b-4f40-86e2-840b77f1c469)
+
 
 **게임 재 시작 화면**
-![image](https://raw.githubusercontent.com/younguk072023/Java/main/assets/game_restart.png)
+![종료화면](https://github.com/user-attachments/assets/2fa55ebf-7f08-4b73-bd49-0f96c5ffaea5)
+
 
 
 ## 실행 방법
